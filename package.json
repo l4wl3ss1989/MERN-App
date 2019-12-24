@@ -9,6 +9,7 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.2.0",
     "react-transition-group": "^4.3.0",
+    "styled-components": "^4.4.1",
     "uuid": "^3.3.3"
   },
   "scripts": {
@@ -31,5 +32,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.10.6"
   }
 }
